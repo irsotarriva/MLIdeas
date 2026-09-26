@@ -1,0 +1,3 @@
+[submodule "fastelo"]
+	path = fastelo
+	url = https://github.com/irsotarriva/fastelo.git
